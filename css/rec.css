@@ -1,0 +1,49 @@
+/* 主体部分 双飞翼布局 */
+.main {
+    margin-top: 30px;
+    border-radius: 30px;
+    background-color: #dce3e2;
+}
+h3 {
+    display: block;
+    margin: 15px;
+    font-size: 28px;
+    text-align: center;
+    border-bottom:2px solid ghostwhite;
+}
+.fin {
+    border-radius: 30px;
+    width: 300px;
+    margin-left: -100%;
+}
+.ready {
+    width: 300px;
+    margin-left: -300px;
+}
+.ing {
+    width: 100%;
+}
+.mid {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.ing h3 {
+    color: #88a5ac;
+}
+.main li {
+    font-size: 22px;
+    margin: 15px 0;
+}
+.l-cont,
+.m-cont,
+.r-cont {
+    padding-left: 50px;;
+}
+.l-cont {
+    width: 100%;
+}
+.m-cont {
+    background-color: rgba(0,0,0,.1);
+    border-radius: 20px;
+    margin: 0 15px;
+}
