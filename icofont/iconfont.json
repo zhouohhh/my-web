@@ -1,0 +1,114 @@
+{
+  "id": "1868752",
+  "name": "myweb",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "954427",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e72f",
+      "unicode_decimal": 59183
+    },
+    {
+      "icon_id": "1148896",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "3104505",
+      "name": "旅游",
+      "font_class": "lvyou",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "3191008",
+      "name": "留言纸",
+      "font_class": "liuyanzhi",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "3262887",
+      "name": "音乐",
+      "font_class": "yinle",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "3775408",
+      "name": "学校",
+      "font_class": "xuexiao",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "3878665",
+      "name": "食物",
+      "font_class": "food",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "3889351",
+      "name": "电影",
+      "font_class": "dianying",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "4568441",
+      "name": "留言模板",
+      "font_class": "liuyanmoban",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "5131557",
+      "name": "猫咪",
+      "font_class": "maomi",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "5168314",
+      "name": "书籍",
+      "font_class": "tubiaozhizuomoban-",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "5483007",
+      "name": "音乐",
+      "font_class": "yinle1",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "7140576",
+      "name": "学校",
+      "font_class": "xuexiao1",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "9097106",
+      "name": "书籍",
+      "font_class": "ziyuan",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "12708826",
+      "name": "音乐",
+      "font_class": "yinle2",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    }
+  ]
+}
